@@ -11,7 +11,15 @@
     - average([1, '2']) // Retorno: undefined;
 */
 
-const average = () => {};
+const average = () => {
+  /* checa se o array está vazio ou se contém valor não numérico */
+  /* percorrer o array */
+  for (let index = 0; index < average.length; index += 1) {
+    const addResult = average[index];
+  }
+  /* receber cada numero e somá-lo */
+  /* dividir a soma pelo tamanho do array */
+  /* arrendondar o valor */
+};
 
 module.exports = average;
-
